@@ -28,7 +28,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/trapezoid-calculations.png" alt="trapezoid image" width="250" />
+        <img src="./images/trapezoid.svg" alt="trapezoid image" width="250" />
       </div>
       <div class="page-content-php">
         <div id="user-info">
